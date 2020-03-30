@@ -1,2 +1,2 @@
 # communications-hub
-A Repository of Wondrous Things
+A repository of wondrous things (including select writing portfolio examples)  
